@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410061** |
+| Nama Lengkap | **Muhammad Rizal Razaan** |
 | Kelas | TI-4B |
